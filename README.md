@@ -18,8 +18,6 @@ You'll design, develop and deploy a service consisted by multiple containerized 
 2. Clone your forked repository into a new PyCharm project (read [here][clone_pycharm] how).   
 3. It is a good practice to create an isolated Python virtual environment specifically for your project. 
    [Configure a new Python virtual environment in PyCharm](https://www.jetbrains.com/help/pycharm/creating-virtual-environment.html).
-4. This project involves working with virtual machines in AWS. You must have access to an AWS account to complete the project.
-   Note that you are responsible for the costs of any resources you create. You'll mainly pay for 1 running `medium` virtual machine with 8GB disk and small amount of stored data in S3. If you work properly, the cost estimation is **10 USD**, assuming your instance is running for 8 hours a day for a whole month (the project can be completed in much less than a month. You can, and must, stop you instances at the end of usage to avoid additional charges).
 
 Later on, you are encouraged to change the `README.md` file content to provide relevant information about your service project, e.g. how to launch the app, main features, etc.
 
